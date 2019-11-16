@@ -1,5 +1,0 @@
-language	/home/tqa/exercism/julia/.travis.yml	/^language: julia$/;"	function	line:1
-os	/home/tqa/exercism/julia/.travis.yml	/^os:$/;"	function	line:3
-julia	/home/tqa/exercism/julia/.travis.yml	/^julia:$/;"	function	line:7
-script	/home/tqa/exercism/julia/.travis.yml	/^script:$/;"	function	line:12
-after_success	/home/tqa/exercism/julia/.travis.yml	/^after_success:$/;"	function	line:15
