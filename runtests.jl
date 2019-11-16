@@ -5,8 +5,8 @@ for exercise in readdir(".")
     if !isempty(ARGS) && !(exercise in ARGS)
         continue
     end
-    println(exercise)
     .!occursin(".git", exercise) || continue
+    .!occursin("juliamnt", exercise) || continue
     exercise_path = joinpath("", exercise)
     isdir(exercise_path) || continue
 

@@ -24,3 +24,5 @@ docs/site/
 Manifest.toml
 
 **/.exercism/*
+.tag
+.tag1
